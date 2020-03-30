@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="details_original_title">Original title</string>
+    <string name="details_rating">Rating</string>
+    <string name="details_release_date">Release date</string>
+    <string name="details_plot_synopsis">Plot synopsis</string>
+    <string name="details_rating_title">Rating:</string>
+    <string name="details_release_date_title">Release date:</string>
+    <string name="details_plot_synopsis_title">Plot synopsis:</string>
+    <string name="main_movie_thumbnail">main movie thumbnail</string>
+    <string name="menu_popular">Popular</string>
+    <string name="menu_top_rated">Top Rated</string>
+    <string name="menu_sort_by">Sort by</string>
+    <string name="details_movie_poster">Details_movie_poster</string>
+</resources>
